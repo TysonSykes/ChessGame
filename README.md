@@ -1,3 +1,3 @@
 # ChessGame
 An Attempt To Write A Chess Game
-/nStep 1: Learn how GitHub works.
+Step 1: Learn how GitHub works.
